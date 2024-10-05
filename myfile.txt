@@ -1,0 +1,1 @@
+cd "c:\Users\joshi\OneDrive\Desktop\virtual assistant\" ; if ($?) { g++ demo.cpp -o demo } ; if ($?) { .\demo }
